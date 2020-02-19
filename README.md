@@ -18,7 +18,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-### `yarn serer`
+### `yarn server`
 
 Runs the build and start server.<br />
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
